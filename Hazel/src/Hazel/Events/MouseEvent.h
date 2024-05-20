@@ -1,7 +1,5 @@
 #pragma once
 
-#include <sstream>
-
 #include "Event.h"
 
 namespace Hazel // ? para que es que es el namespace
